@@ -82,3 +82,17 @@ p {
 .text-left {
   text-align: left;
 }
+
+@media (max-width: 768px) {
+  .portfolio-link {
+    display: block;
+    margin: 0 auto;
+    max-width: 200px;
+    text-align: center;
+  }
+
+  .yogurt {
+    position: relative;
+    top: -40px;
+  }
+}
