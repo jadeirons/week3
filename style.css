@@ -84,6 +84,11 @@ p {
 }
 
 @media (max-width: 768px) {
+  h1 {
+    font-size: 65px;
+    padding: 10px;
+  }
+
   .portfolio-link {
     display: block;
     margin: 0 auto;
