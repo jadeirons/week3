@@ -89,6 +89,10 @@ p {
     padding: 10px;
   }
 
+  h2 {
+    font-size: 32px;
+  }
+
   .portfolio-link {
     display: block;
     margin: 0 auto;
