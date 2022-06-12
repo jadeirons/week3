@@ -100,4 +100,11 @@ p {
     position: relative;
     top: -40px;
   }
+
+  .email-link {
+    margin-bottom: 30px;
+  }
+  .abt-img {
+    margin-bottom: 30px;
+  }
 }
